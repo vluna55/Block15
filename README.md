@@ -1,7 +1,7 @@
 # Block15
 ## Workshop: Froyo Orders
 
-In this project, we will be building out the functionality of a simple app that asks a user a list of comma-separated froyo flavors and then output a table to the console according to the user's input.
+In this project, we will build out the functionality of a simple app that asks a user a list of comma-separated froyo flavors and then outputs a table to the console according to the user's input.
 
 ## Instructions
 
